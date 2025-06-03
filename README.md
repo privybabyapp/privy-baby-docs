@@ -52,5 +52,3 @@ This app is built with:
 - **Authentication:** Firebase Authentication
 
 ---
-
-© 2024 Privy Baby. All rights reserved.
